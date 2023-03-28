@@ -1,6 +1,7 @@
 package kjyyjk920.springboot.domain.posts;
 
 
+import kjyyjk920.springboot.domain.BaseTimeEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -10,7 +11,7 @@ import javax.persistence.*;
 @Getter
 @NoArgsConstructor
 @Entity
-public class Posts {
+public class Posts extends BaseTimeEntity {
 
     //id 애노테이션은 해당 테이블의 pk필드. 중복x 널값x. 행을 식별할 수 있는.
     @Id
