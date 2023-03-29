@@ -20,7 +20,6 @@ public class IndexControllerTest {
         String body = this.restTemplate.getForObject("/", String.class);
         
         //then
-        assertThat(body).contains("hello");
-
+        assertThat(body).contains("스프링 부트로 구현하는 웹 서비스");
     }
 }
