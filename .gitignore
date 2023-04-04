@@ -1,20 +1,3 @@
 # Project exclude paths
 .gradle
 .idea
-/build/tmp/compileJava/previous-compilation-data.bin
-/build/test-results/test/binary/output.bin.idx
-/build/reports/tests/test/classes/kjyyjk920.springboot.web.HelloControllerTest.html
-/build/classes/java/main/kjyyjk920/springboot/Application.class
-/build/reports/tests/test/css/base-style.css
-/build/classes/java/main/kjyyjk920/springboot/web/HelloController.class
-/build/classes/java/test/kjyyjk920/springboot/web/HelloControllerTest.class
-/build/classes/java/main/kjyyjk920/springboot/web/dto/HelloResponseDto.class
-/build/reports/tests/test/index.html
-/build/test-results/test/binary/results.bin
-/build/reports/tests/test/packages/kjyyjk920.springboot.web.html
-/build/classes/java/test/kjyyjk920/springboot/web/dto/HelloResponseDtoTest.class
-/build/tmp/compileTestJava/previous-compilation-data.bin
-/build/test-results/test/binary/output.bin
-/build/reports/tests/test/js/report.js
-/build/reports/tests/test/css/style.css
-/build/test-results/test/TEST-kjyyjk920.springboot.web.HelloControllerTest.xml
